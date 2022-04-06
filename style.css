@@ -1,0 +1,144 @@
+body {
+  direction: rtl;
+}
+.imgpi {
+  width: 1223px;
+  height: 90px;
+}
+
+img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 176px;
+  height: 75px;
+  z-index: 1;
+}
+h1 {
+  color: #000000;
+  font-size: 13px;
+  margin-left: 20px;
+  position: absolute;
+  left: 200px;
+  top: 183px;
+}
+button {
+  background-color: #1417ac;
+  padding: 0 18px;
+  font-size: 15px;
+  display: inline-block;
+  position: absolute;
+  left: 7px;
+  top: 187px;
+}
+.h12 {
+  color: #000000;
+  font-size: 13px;
+  position: absolute;
+  right: 24px;
+  top: 183px;
+}
+table {
+  background-color: rgb(222, 26, 26);
+  padding: 0 15px;
+  width: 100%;
+  color: white;
+  
+  
+}
+th{
+    border-left: 1px solid black;
+}
+.th2 {
+  width: 18%;
+}
+.th3 {
+  color: rgb(222, 26, 26);
+}
+#od {
+  border: 2px solid white;
+  border-radius: 50%;
+}
+.table2 {
+  background-color: #f3f8f9;
+  width: 100vw;
+  height: 102px;
+  color: #000000;
+}
+.td {
+  border-right: #000000;
+  color: #000000;
+  width: 10%;
+}
+h2 {
+  display: inline-block;
+  font-weight: bold;
+  font-size: 39px;
+}
+p {
+  display: inline-block;
+  bottom: 0%;
+  position: absolute;
+  right: 8px;
+  top: 500px;
+  font-size: 23px;
+}
+.img2 {
+  display: inline-block;
+  width: 611px;
+  height: 343.08px;
+  position: absolute;
+  left: 7px;
+  top: 339px;
+}
+div {
+  background-color: #f3f8f9;
+  height: 10vh;
+}
+h3 {
+  text-align: center;
+  bottom: 15px;
+}
+.table3 {
+  height: 30px; ;
+  width: 110vh;
+  background-color: rgb(222, 26, 26) ;
+  position: absolute ;left: 7px;
+ 
+  
+}
+
+  .divk{
+    width: 50%;
+     position:absolute; left: 0%; 
+    background-color: rgb(222, 26, 26);
+    display: flex;
+    justify-content: space-between;
+    height: 15vh;
+    
+  }
+  
+ .imgk{
+   margin-right: 0;
+   height: 15vh;
+
+ }
+ .h1k {
+    position: absolute;top: 0;right: 30vh;
+    font-size: 15px;
+ }
+  .pk{
+    position: absolute;top: 30px;right: 30vh;
+    font-size: 12px;
+
+  }
+
+   
+  
+  .img4{
+      position: absolute;bottom: -537px; right:1px;
+      width: 550px;
+      height: 350px;
+      size: 500px;
+    }
+    
